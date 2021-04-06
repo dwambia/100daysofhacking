@@ -1,3 +1,4 @@
+#Simple python code to calculate amount a user is to tip
 total_bill = input("What is your total bill? ")
 #ignore the $ sign if user inputs
 total_bill= total_bill.replace("$","")
